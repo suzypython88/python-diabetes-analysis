@@ -1,6 +1,6 @@
 # Exploratory data analysis of the daily blood glucose levels of a type 1 diabetic (WIP, Ongoing)
 
-Link to the Python notebook: [Python Notebook](https://github.com/suzypython88/ni-carriageway-defects-analysis/blob/main/Python%20Notebook%20-%20NI_Carriageway_Defects%20-%20Suzy%20Kell.ipynb)
+Link to the Python notebook: [Python Notebook](https://github.com/suzypython88/python-diabetes-analysis/blob/main/DiabetesAnalysis2025.ipynb)
 
 
 ## Background
@@ -18,3 +18,6 @@ Pandas, Numpy, Matplotlib, Seaborn
 
 ## Data Set
 MySugr App recorded data at the testing level (each blood analysis test), tagged with activity markers, timestamp and date. Data ranges from January 2021 to July 2025.
+
+<img width="1276" height="631" alt="Freestyle Libre Arm Sensor Image" src="https://github.com/user-attachments/assets/8b1898d5-d558-4ccd-be3f-c89951737a48" />
+
